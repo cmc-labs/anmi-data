@@ -1,7 +1,6 @@
 ﻿id_mo;mo_title;id_sector;mandate;location;primary_distr_area;local;language;start_date;start_fake_date;end_date;end_fake_date;editorial_line_s;editorial_line_e;comments
 100101;Abend, Der [1];11;2;Wien;11;0;deutsch;1915-06-14;9;1917-02-20;9;KA;KA;21.02.1917-06.03.1917 aus Zensurgründen nicht erschienen
 100102;Abend, Der [2];11;2;Wien;11;0;deutsch;1917-03-07;9;1918-03-18;9;KA;KA;19.03.1918-31.05.1918 polizeilich verboten
-200000;Der Morgen; 
 100103;Abend, Der [3];11;2;Wien;11;0;deutsch;1918-10-31;9;1934-02-16;9;KA;KA;KA
 100104;Abend, Der [4];11;2;Wien;11;0;deutsch;1948-02-25;9;1956-09-29;9;KA;KA;KA
 100200;AbendAusgabe;11;2;Wien;11;0;deutsch;1933-09-21;9;1933-10-21;9;KA;KA;KA
